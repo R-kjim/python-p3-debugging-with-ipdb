@@ -262,7 +262,8 @@ that `num` is still equal to `3` and, as a result, the function is returning
 `3`.
 
 How can we modify the code so that the function behaves in the expected way? We
-need to _update_ the value of our `num` variable so that it's equal to the sum
+need to _update_
+ipdb>  the value of our `num` variable so that it's equal to the sum
 of itself and 2. Play around inside your `ipdb` console: try code that you think
 will update `num` as needed, then check the value of `num` to see if it worked.
 Once you figure it out you can type `exit` in your terminal to get out of
